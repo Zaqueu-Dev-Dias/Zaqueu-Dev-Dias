@@ -3,5 +3,11 @@ Aos 16 anos de idade começei estudar Python atraves de vídeos aulas no YouTube
 
 ![Zaqueu GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaqueu-Dev-Dias&show_icons=true&theme=radical)
 
+Tecnologia para desenvolvimento de app mobile:
+* ![Flutter](	https://img.shields.io/badge/Flutter-02569B?)
+* ![Dart](	https://img.shields.io/badge/Dart-0175C2?)
+* ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-)
+
+
 
 
